@@ -3,8 +3,8 @@
 The repository contains accompanying code to the paper "Prediction of laccase-catalyzed oxidation of aromatic
 substrates using machine learning" by Y. Kulagina, C. Goldhahnb, R. Weisshauptc, and M. Schubert.
 
-![Alt text](assets/lac-oxidation.png)
 
+<img src="assets/lac-oxidation.png" alt="Abstract" width="200"/>
 
 ### Abstract:
 Laccases are multi-copper oxidase enzymes capable of oxidizing a broad spectrum of aromatic and
@@ -27,5 +27,6 @@ These findings provide valuable insights for accelerating laccase-substrate disc
 tools.
 
 The repository comprises 2 folders: 
-* **Transformer** - contains the code for fine-tuning the ChemBERTa model for the classification task.
-* **Classical** - contains the code for training logistic regression with elastic net regularization, SVM, RF and GB classifiers for the laccase-madiated oxidation prediction.
+* **transformer** - contains the code for fine-tuning the ChemBERTa model for the classification task.
+* **classical** - contains the code for training logistic regression with elastic net regularization, SVM, RF and GB classifiers for the laccase-madiated oxidation prediction.
+* **assets** - contains relevant images, graphics, notes, etc.
