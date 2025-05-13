@@ -3,6 +3,8 @@
 The repository contains accompanying code to the paper "Prediction of laccase-catalyzed oxidation of aromatic
 substrates using machine learning" by Y. Kulagina, C. Goldhahnb, R. Weisshauptc, and M. Schubert.
 
+![Alt text](assets/lac-oxidation.png)
+
 
 ### Abstract:
 Laccases are multi-copper oxidase enzymes capable of oxidizing a broad spectrum of aromatic and
