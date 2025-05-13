@@ -1,8 +1,10 @@
+## Prediction of laccase-catalyzed oxidation of aromatic substrates using machine learning
+
 The repository contains accompanying code to the paper "Prediction of laccase-catalyzed oxidation of aromatic
 substrates using machine learning" by Y. Kulagina, C. Goldhahnb, R. Weisshauptc, and M. Schubert.
 
 
-## Abstract:
+### Abstract:
 Laccases are multi-copper oxidase enzymes capable of oxidizing a broad spectrum of aromatic and
 non-aromatic compounds, using molecular oxygen and producing only water as a byproduct. This
 environmentally benign mechanism makes laccases attractive candidates for green catalysis across
@@ -21,3 +23,7 @@ and generalization tasks. Further interpretability analyses using feature import
 attention mechanisms (ChemBERTa) reveal key molecular features influencing predictive outcomes.
 These findings provide valuable insights for accelerating laccase-substrate discovery using data-driven
 tools.
+
+The repository comprises 2 folders: 
+* **Transformer** - contains the code for fine-tuning the ChemBERTa model for the classification task.
+* **Classical** - contains the code for training logistic regression with elastic net regularization, SVM, RF and GB classifiers for the laccase-madiated oxidation prediction.
