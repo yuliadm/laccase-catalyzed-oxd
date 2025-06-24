@@ -4,7 +4,7 @@ The repository contains accompanying code to the paper "Prediction of laccase-ca
 substrates using machine learning" by Y. Kulagina, C. Goldhahnb, R. Weisshauptc, and M. Schubert.
 
 
-<img src="assets/lac-oxidation.png" alt="Abstract" width="400"/>
+<img src="assets/lac-oxd.png" alt="Abstract" width="400"/>
 
 ### Abstract:
 Laccases are multi-copper oxidase enzymes capable of oxidizing a broad spectrum of aromatic and
