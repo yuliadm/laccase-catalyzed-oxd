@@ -26,7 +26,7 @@ attention mechanisms (ChemBERTa) reveal key molecular features influencing predi
 These findings provide valuable insights for accelerating laccase-substrate discovery using data-driven
 tools.
 
-The repository comprises 2 folders: 
+The repository comprises 3 folders: 
 * **transformer** - contains the code for fine-tuning the ChemBERTa model for the classification task.
 * **classical** - contains the code for training logistic regression with elastic net regularization, SVM, RF and GB classifiers for the laccase-madiated oxidation prediction.
 * **assets** - contains relevant images, graphics, notes, etc.
